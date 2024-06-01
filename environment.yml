@@ -144,11 +144,11 @@ dependencies:
       - tomli==2.0.1
       - tomlkit==0.12.5
       - torch==1.13.1
-      - torch-cluster==1.6.1+pt113cu117
+      - https://data.pyg.org/whl/torch-1.13.0%2Bcu117/torch_cluster-1.6.1%2Bpt113cu117-cp39-cp39-linux_x86_64.whl
       - torch-geometric==2.5.3
-      - torch-scatter==2.1.1+pt113cu117
-      - torch-sparse==0.6.17+pt113cu117
-      - torch-spline-conv==1.2.2+pt113cu117
+      - https://data.pyg.org/whl/torch-1.13.0%2Bcu117/torch_scatter-2.1.1%2Bpt113cu117-cp39-cp39-linux_x86_64.whl
+      - https://data.pyg.org/whl/torch-1.13.0%2Bcu117/torch_sparse-0.6.17%2Bpt113cu117-cp39-cp39-linux_x86_64.whl
+      - https://data.pyg.org/whl/torch-1.13.0%2Bcu117/torch_spline_conv-1.2.2%2Bpt113cu117-cp39-cp39-linux_x86_64.whl
       - torch-topological==0.1.7
       - torchvision==0.14.1
       - tqdm==4.64.1
